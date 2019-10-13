@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Better than David Chang's Thai Basil Noodles"
 description: A delicious noodle dish inspired by Momofuku's Chilled Spicy Noodles
-image: /images/pesto1.jpg
+image: /images/pesto-facebook.jpg
 date:   2019-10-12 12:21:40 -0500
 categories: recipe
 ingredients:
