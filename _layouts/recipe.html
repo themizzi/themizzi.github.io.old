@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<h1>
+{{ page.title }} <span class="date">// {{ page.date }}</span>
+</h1>
+{{ content }}
+<h2>Ingredients</h2>
+<ul>
+    {% for ingredients in page.ingredients %}
+    {% if ingredients.first %}
+        <h3>{{ ingredients[0] }}</h3>
+        {% for ingredient in ingredients[1] %}
+          <li>{{ ingredient}}</li>
+        {% endfor %}
+    {% else %}
+        <li>{{ ingredient }}</li>
+    {% endif %}
+    {% endfor %}
+</ul>
+<h2>Instructions</h2>
+<ol>
+    {% for instruction in page.instructions %}
+    <li>{{ instruction }}</li>
+    {% endfor %}
+</ol>

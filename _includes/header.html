@@ -1,0 +1,13 @@
+<header>
+  <div class="menu">
+    <h1 class="title">{{ site.title }}</h1>
+    <ul>
+          <li><a href="/">/home</a></li>
+      {% for page in site.pages %}
+        {% if page.title %}
+          <li><a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</header>

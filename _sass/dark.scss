@@ -1,0 +1,18 @@
+/**
+ * Style variables
+ */
+$base-color:           #DBDBDB !default;
+$primary-color:        #ff8400 !default;
+$secondary-color:      #b729d9 !default;
+$accent-color:         #56db3a !default;
+$secondary-accent-color: #fff !default;
+$text-color:           $base-color !default;
+$placeholder-color:    $base-color !default;
+$link-color:           $accent-color !default;
+$border:               dashed 1px rgba(219,219,219,0.9) !default;
+$selection-background: rgba(219,219,219,0.99) !default;
+$selection-text:       #1e2125 !default;
+$background-color:     #1e2125 !default;
+
+
+@import "base";

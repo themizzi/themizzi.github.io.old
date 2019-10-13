@@ -1,0 +1,5 @@
+<footer>
+    {% for social_link in site.social_links %}
+    <a href="{{ social_link.link }}" target="_blank"><i style="width: 1em" class="fa fa-{{ social_link.font_awesome }}"></i></a>
+    {% endfor %}
+</footer>
