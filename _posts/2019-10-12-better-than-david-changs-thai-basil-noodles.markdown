@@ -49,4 +49,4 @@ recipe_category: dinner
 
 ![Pesto Noodles](/images/pesto3.jpg){:class="recipe-header"}
 
-I'm a David Chang fan. I started making this dish after going to his momofuku noodle bar in New York City and trying his Chilled Spicy Noodles. After perfecting this dish and returning to the same New York City etablishment to compare, I am annointing myself the champion of thai basil peso noodles.
+I'm a David Chang fan. I started making this dish after going to his momofuku noodle bar in New York City and trying his Chilled Spicy Noodles. After perfecting this dish and returning to the same New York City etablishment to compare, I am annointing myself the champion of thai basil pesto noodles.
