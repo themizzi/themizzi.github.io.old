@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Dandy Scampi"
 description: This quick scampi makes for a light but still filling meal
-image: /images/dandy-scampi.jpg
+image: /images/dandy-scampi-facebook.jpg
 date:   2019-11-02 10:00:00 -0500
 categories: recipe
 ingredients:
