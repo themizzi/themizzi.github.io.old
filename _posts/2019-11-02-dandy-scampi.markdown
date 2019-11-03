@@ -22,7 +22,7 @@ instructions:
     - add butter and oil to a pan and cook until butter is melted on medium heat.
     - add the garlic and cook for an additional minute.
     - add the langostinos or shrimp with salt, pepper and crushed red pepper. cook for about 5 minutes.
-    - add the 2 tbsp reserved pasta water, parsley, lemon choose and parmesan cheese to the pan. toss well and turn off heat.
+    - add the 2 tbsp reserved pasta water, parsley, lemon and parmesan cheese to the pan. toss well and turn off heat.
     - combine the langostinos or shrimp along with its sauce and the noodles. toss well and serve!
 prep_time: 10m
 cook_time: 15m
