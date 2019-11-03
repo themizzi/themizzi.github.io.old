@@ -32,4 +32,4 @@ recipe_category: dinner
 ---
 ![Dandy Scampi](/images/dandy-scampi.jpg){:class="recipe-header"}
 
-This is one of those easy dishes we eat all the time. Definitely make the noodles al dente and oil and salt the water well. Use tongs to remove the noodles from the water into a strainer making things way easier on yourself. All of the rest of the ingredients you can adjust to your liking. We tend to like ours a little on the lemony side which this recipe represents.
+This is one of those easy dishes we eat all the time. Definitely make the noodles al dente and oil and salt the water well. Use tongs to remove the noodles from the water into a strainer making things way easier on yourself. All of the rest of the ingredients you can adjust to your liking. We tend to like ours a little on the lemony side which this recipe represents. We buy langostinos from Costco and those can be tossed in the pan frozen as they come since they are already cooked. Shrimp works as well but I would recommend defrosting it first since it will not already be cooked.
