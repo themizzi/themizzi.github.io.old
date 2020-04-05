@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Buffalo Chicken Mac & Cheese"
-description: Hearty caserole spicy and packed with cheese
+description: Hearty casserole spicy and packed with cheese
 image: /images/buffalo-chicken-mac-and-cheese-facebook.jpg
 date:   2020-04-05 10:30:00 -0500
 categories: recipe
