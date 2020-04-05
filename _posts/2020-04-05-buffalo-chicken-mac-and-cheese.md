@@ -47,7 +47,6 @@ recipe_category: dinner
 ![Buffalo Chicken Mac & Cheese](/images/buffalo-chicken-mac-and-cheese1.jpg){:class="recipe-header"}
 ![Buffalo Chicken Mac & Cheese](/images/buffalo-chicken-mac-and-cheese2.jpg){:class="recipe-header"}
 ![Buffalo Chicken Mac & Cheese](/images/buffalo-chicken-mac-and-cheese3.jpg){:class="recipe-header"}
-![Buffalo Chicken Mac & Cheese](/images/buffalo-chicken-mac-and-cheese4.jpg){:class="recipe-header"}
 
 Quarntine kitchen got me to put this dish together. I was craving some velveeta shells and cheese, but also felt that was a little too easy with all this time on our hands. The buffalo sauce adds a good kick that isn't too much for the light hearted, but you can add more hot sauce while eating to spice it up even more.
 
