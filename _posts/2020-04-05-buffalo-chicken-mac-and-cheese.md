@@ -19,7 +19,7 @@ ingredients:
         - 1 cup milk (or half and half)
         - 4 tbsp reserved pasta cooking water
         - 1/2 cup buffalo sauce
-        - 8 oz velveeta chopped into cubes
+        - 8 oz Velveeta chopped into cubes
         - 4 cups large elbow noodles, cooked & drained
         - 1 cup shredded cheddar cheese
     Topping:
@@ -34,8 +34,8 @@ instructions:
     - Add the flour and gradually and cook for another minute
     - Slowly add the milk while stirring continuously, cook until combined and thickened
     - Add the cooking water, hot sauce, salt, pepper and mustard and stir to combine
-    - Add the velveeta and cook until cheese is melted and sauce is smooth and creamy
-    - Combine the noodles, chopped chicken and sauze and poor into casserole dish
+    - Add the Velveeta and cook until cheese is melted and sauce is smooth and creamy
+    - Combine the noodles, chopped chicken and sacue and poor into a casserole dish
     - Top with shredded cheddar cheese and potato chip topping
     - Back for 20 minutes at 350
 prep_time: 30m
@@ -48,5 +48,5 @@ recipe_category: dinner
 ![Buffalo Chicken Mac & Cheese](/images/buffalo-chicken-mac-and-cheese2.jpg){:class="recipe-header"}
 ![Buffalo Chicken Mac & Cheese](/images/buffalo-chicken-mac-and-cheese3.jpg){:class="recipe-header"}
 
-Quarntine kitchen got me to put this dish together. I was craving some velveeta shells and cheese, but also felt that was a little too easy with all this time on our hands. The buffalo sauce adds a good kick that isn't too much for the light hearted, but you can add more hot sauce while eating to spice it up even more.
+Quarantine kitchen got me to put this dish together. I was craving some Velveeta shells and cheese, but also felt that was a little too easy with all this time on our hands. The buffalo sauce adds a good kick that isn't too much for the light-hearted, but you can add more hot sauce while eating to spice it up even more.
 
